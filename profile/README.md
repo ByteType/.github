@@ -2,7 +2,7 @@
 
 We're La Pluma. Do you want a copy of the 'Dossoles Guide to Cocktails,'?
 
-- [Demo Static Page: React](https://bytetype.github.io/alchemists)
+- [Demo Static Page: React](https://bytetype.github.io/alchemists/#)
 - [Design Document: Docusaurus](https://bytetype.github.io/document)
 - [API Domain: Heroku](https://bytetype-cea685bb8e38.herokuapp.com)
 

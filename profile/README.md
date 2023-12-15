@@ -6,6 +6,8 @@ We're La Pluma. Do you want a copy of the 'Dossoles Guide to Cocktails,'?
 - [Design Document: Docusaurus](https://bytetype.github.io/document)
 - [API Domain: Heroku](https://bytetype-cea685bb8e38.herokuapp.com)
 
+[demo.webm](https://github.com/ByteType/alchemists/assets/88884784/c748d830-29a6-4f55-91c0-20ff5536676b)
+
 <!--
 
 **Here are some ideas to get you started:**
